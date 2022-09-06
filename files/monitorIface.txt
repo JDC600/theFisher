@@ -1,0 +1,6 @@
+docker0
+eth0
+lo
+vmnet1
+vmnet8
+wlan0mon
