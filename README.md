@@ -1,2 +1,2 @@
 # theFisher
-Phising application in python (in progress)
+Phising application in bash (in progress)
