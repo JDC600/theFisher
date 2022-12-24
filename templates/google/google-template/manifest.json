@@ -1,0 +1,14 @@
+{
+  "originalUrl": "https://accounts.google.com/v3/signin/identifier?dsh=S-1106863704%3A1662487652850840&continue=https%3A%2F%2Fwww.google.es%2F&ec=GAZAmgQ&hl=en-US&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AQN2RmXjYskaP5JB4p-x_cIKVYpiT27B_3A04G5nkuthvf99hhz418eV6_8VN494Z_f4OAWBKa89Mw",
+  "title": "Sign in - Google Accounts",
+  "archiveTime": "2022-09-06T18:26:17.938Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "images/4.ico": "https://accounts.google.com/favicon.ico",
+    "fonts/0.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2",
+    "fonts/2.woff2": "https://fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owp4.woff2",
+    "fonts/1.woff2": "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+    "fonts/3.woff2": "https://fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwY.woff2",
+    "frames/0/": "https://accounts.youtube.com/accounts/CheckConnection?pmpo=https%3A%2F%2Faccounts.google.com&v=1381181051&timestamp=1662487804296"
+  }
+}
